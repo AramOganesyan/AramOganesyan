@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AramOganesyan
+- 👀 I’m interested in everything related with hardware/software programming
+- 🌱 I’m currently learning Java, C#, C++, Android Studio, Arduino, Mobile Apps, Rpi and Microsoft Tools
+- 💞️ I’m looking to collaborate on proyects that can make me get out of my bounds
+- 📫 You can reach me via my email 'oganesyanaram@gmail.com' or my LinkedIn 'https://www.linkedin.com/in/aram-oganesyan-4512a4229/'
